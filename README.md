@@ -1,6 +1,7 @@
 # Mastering-Salesforce-Sales-Cloud
 A two-part guide: practical sales workflows followed by configuration, administration, and governance.
-![Book cover](images/Linkedin_Post.png) (https://leanpub.com/masteringsalesforce)
+![Cover image](images/Linkedin_Post.png)
+(https://leanpub.com/masteringsalesforce)
 
 First Edition 2026 (Color illustrations)
 
